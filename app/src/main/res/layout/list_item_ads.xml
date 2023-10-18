@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/_120sdp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="@dimen/_5sdp"
+    app:cardCornerRadius="@dimen/_8sdp"
+    app:cardElevation="@dimen/_2sdp"
+    android:id="@+id/cdMain"
+    android:foreground="?attr/selectableItemBackground"
+    android:layout_height="@dimen/_120sdp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <ImageView
+            android:layout_width="@dimen/_75sdp"
+            android:layout_height="@dimen/_75sdp"
+            android:src="@drawable/applovin"
+            android:contentDescription="@string/applovin_logo"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginStart="@dimen/_3sdp"
+            android:layout_marginEnd="@dimen/_3sdp"
+            android:singleLine="true"
+            android:scrollHorizontally="true"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:fontFamily="@font/recursive_semibold"
+            android:gravity="center"
+            android:id="@+id/adType"
+            android:text="@string/interstitial"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/_11ssp" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

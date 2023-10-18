@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/home2">
+
+    <fragment
+        android:id="@+id/home2"
+        android:name="com.umair.facebookads.example.ui.fragments.Home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_home2_to_adPlacer"
+            app:destination="@id/adPlacer" />
+    </fragment>
+    <fragment
+        android:id="@+id/adPlacer"
+        android:name="com.umair.facebookads.example.ui.fragments.AdPlacer"
+        android:label="fragment_ad_placer"
+        tools:layout="@layout/fragment_ad_placer" />
+</navigation>

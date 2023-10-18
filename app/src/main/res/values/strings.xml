@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Applovin Ads</string>
+    <string name="applovinBanner" translatable="false">xxx-xxx-xxx-xxx-xxx</string>
+    <string name="applovinOpen" translatable="false">xxx-xxx-xxx-xxx-xxx</string>
+    <string name="applovinInterstitial" translatable="false">xxx-xxx-xxx-xxx-xxx</string>
+    <string name="applovinNativeManual">xxx-xxx-xxx-xxx-xxx</string>
+    <string name="applovinNativeMedium">xxx-xxx-xxx-xxx-xxx</string>
+    <string name="applovinNativeSmall">xxx-xxx-xxx-xxx-xxx</string>
+    <string name="applovinReward">xxx-xxx-xxx-xxx-xxx</string>
+    <string name="applovinMERC">xxx-xxx-xxx-xxx-xxx</string>
+
+    <string name="applovinSDK">xxx-xxx-xxx-xxx-xxx xxx-xxx-xxx-xxx-xxx xxx-xxx-xxx-xxx-xxx xxx-xxx-xxx-xxx-xxx</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="applovin_logo">applovin logo</string>
+    <string name="interstitial">Interstitial</string>
+    <string name="applovin_ads">APPLOVIN ADS</string>
+
+    <string name="banner">Banner</string>
+    <string name="native_template">Native Templates</string>
+    <string name="native_ad_placer">Native Ad Placer</string>
+    <string name="native_ad_manual">Native Manual</string>
+    <string name="app_open">App Open</string>
+    <string name="rewarded">Rewarded</string>
+    <string name="ad_icon">Ad Icon</string>
+    <string name="title">Title</string>
+    <string name="sponsored_by_advertiser">Sponsored by [Advertiser]</string>
+    <string name="body_text_goes_here">Body text goes here...</string>
+    <string name="learn_more">Learn More</string>
+    <string name="call_to_action">Call to action</string>
+    <string name="advertiser_name">Advertiser name</string>
+    <string name="body_of_the_ad">Body of the ad</string>
+    <string name="title_of_the_ad">Title of the ad</string>
+    <string name="ad">Ad</string>
+    <string name="banner_ads_implemented_below">Banner ads implemented below</string>
+    <string name="ad_is_not_ready">Ad is not ready!</string>
+    <string name="_1">1</string>
+    <string name="ad_placer">Ad Placer</string>
+    <string name="manual_native_ad">Manual Native Ad</string>
+    <string name="reward_ad_is_not_ready_yet">Reward ad is   not ready yet!</string>
+    <string name="merc">MERC</string>
+    <string name="merc_ad">MERC AD</string>
+
+</resources>
