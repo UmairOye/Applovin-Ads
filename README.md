@@ -347,10 +347,14 @@ or download demo app for testing purpse:
 ## How to Contribute
 If you would like to contribute to the project, follow these steps:
 
+
+
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/your-feature`)
 3. Make your changes and commit them (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Create a pull request
 
+## Don't Forget to Star ⭐
 
+If you found this project useful or had fun exploring it, please consider giving it a star. It's a great way to show your appreciation and it puts a smile on my face! 😊🌟
